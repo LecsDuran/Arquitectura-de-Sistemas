@@ -6,7 +6,7 @@ Repositorio creado para la materia de **Arquitectura de Sistemas**.
 - Alumna: Leslie Durán
 - Materia: Arquitectura de Sistemas
 - Semestre: 4°
-- Institución: [Nombre de tu escuela]
+- Institución: [Centro Universitario de Guadalajara]
 
 ## Descripción
 Este repositorio se utilizará para subir tareas, prácticas y material relacionado con la materia.
